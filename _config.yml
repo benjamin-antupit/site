@@ -1,0 +1,212 @@
+# Site
+repository: benjamin-antupit/site
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Benjamin Antupit
+title: Robotics Engineering & Technical Theatre Undergraduate
+email: benjamin@antupit.com
+website: benjamin.antupit.com
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+#twitter_username: facespics
+github_username:  benjamin-antupit
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: benjamin-antupit
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Benjamin and Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+  I am most skilled in <mark>Lighting Design</mark> and <mark>Robotics</mark>.
+
+content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Worcester Polytechnic Institute (WPI)
+        sub_title: Robotics Engineering Major and Technical Theatre Minor
+        caption: 2021-2025
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at WPI, I ...
+
+          I spent a lot of my free time ...
+
+      - layout: left
+        title: Crystal Springs Uplands School
+        sub_title: Middle and High School
+        caption: 2014-2021
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Crystal, I ...
+
+          I spent a lot of my free time ...
+
+      - layout: left
+        title: Related Courses
+        sub_title: 
+        caption: 
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          TH320X: Scenic Design
+
+          TH340X: Lighting Design
+
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: One
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+         # - title:  sproogen/modern-resume-theme
+         #   icon: fab fa-github
+         #   url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+        description: | # this will include new lines to allow paragraphs
+          I started this project ...
+      - layout: left
+        title: Two
+        #link: github.com/sproogen
+        description: | # this will include new lines to allow paragraphs
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+        description: | # this will include new lines to allow paragraphs
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Project Ember
+        link: ProjectEmber.org
+        # link_text: boringcompany.com
+        sub_title: Collaborator
+        caption: ??? - Present
+        quote: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+        description: | # this will include new lines to allow paragraphs
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+  
+  - title: Activities & Leadership # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Lens and Lights
+        link: lnl.wpi.edu
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: Fall 2021 - Present
+        quote: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+        description: | # this will include new lines to allow paragraphs
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+      - layout: left
+        title: VOX Musical Theatre
+        link: vox.wpi.edu
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: Fall 2021 - Present
+        quote: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+        description: | # this will include new lines to allow paragraphs
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+  - title: Awards & Honors # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Founders Award
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Crystal Springs Uplands School
+        caption: June 2021
+        quote: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+        description: | # this will include new lines to allow paragraphs
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in ..., some of my other interests and hobbies are:
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+     # Look at this cool image  
+     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: false # true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
