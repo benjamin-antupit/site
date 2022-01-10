@@ -52,6 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in <mark>Lighting Design</mark> and <mark>Robotics</mark>.
 
+
+### Content options: https://github.com/sproogen/modern-resume-theme#content
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -154,7 +156,7 @@ content:
         title: Lens and Lights
         link: lnl.wpi.edu
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        sub_title: Active Member
         caption: Fall 2021 - Present
         quote: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
@@ -164,7 +166,7 @@ content:
         title: VOX Musical Theatre
         link: vox.wpi.edu
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        sub_title: Active Member
         caption: Fall 2021 - Present
         quote: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
