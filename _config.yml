@@ -48,7 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Benjamin and I'm studying <mark>Robotics Engineering</mark> and <mark>Technical Theatre</mark> at WPI. In my spare time, I am the President of Lens and Lights, a student-run live event production group which produces over 270 events per year, both on and off campus. I really enjoy exploring the intersection between hardware, software, and mechanisms, which is what led me to Robotics Engineering. I love live event production and lighting design because I'm excited to explore the intersection of performance art, design, and engineering.
+  Hello, I'm Benjamin and I'm studying <mark>Robotics Engineering</mark> and <mark>Technical Theatre</mark> at WPI. In my spare time, I am the President of [WPI Lens and Lights](https://lnl.wpi.edu), a student-run live event production group which produces over 270 events per year, both on and off campus. 
+  
+  I really enjoy exploring the intersection between hardware, software, and mechanisms, which is what led me to Robotics Engineering. I love live event production and lighting design because I'm excited to explore the intersection of performance art, design, and engineering.
 
 ### Content options: https://github.com/sproogen/modern-resume-theme#content
 content:
@@ -74,6 +76,35 @@ content:
          # During my time at Crystal, I ...
 #
  #         I spent a lot of my free time ...
+  - title: Skills # Title for the section
+  # Programming Languages: Java, C++, Matlab, Python, JavaScript, and LaTeX
+  # Design Applications Adobe Suite, Affinity Designer, Solidworks, and Onshape
+  # Theatre & Event Production Tools: Vectorworks with BeamViz, ETC EOS, Qlab, and Lightwright
+  # Languages: English (native speaker), Spanish (intermediate)
+  # Networking for Live Events/Installation: Dante Level 3 Certified (2nd Edition), ArtNet/sACN/ETCNet
+
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Programming Languages
+        description: | # this will include new lines to allow paragraphs
+          Java, C++, Matlab, Python, JavaScript, and LaTeX
+      - layout: left
+        title: Design Applications
+        description: | # this will include new lines to allow paragraphs
+          Adobe Suite, Affinity Designer, Solidworks, and Onshape
+      - layout: left
+        title: Theatre & Event Production Tools
+        description: | # this will include new lines to allow paragraphs
+          Vectorworks with BeamViz, ETC EOS, Qlab, and Lightwright
+      - layout: left
+        title: Networking for Live Events/Installation
+        description: | # this will include new lines to allow paragraphs
+          Dante Level 3 Certified (2nd Edition), experience with ArtNet/sACN/ETCNet
+      - layout: left
+        title: Languages
+        description: | # this will include new lines to allow paragraphs
+          English (native speaker), Spanish (intermediate)
 
   - title: Recent Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -239,7 +270,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Plan and coordinate lighting and sound services, rental equipment, and student crew for 270+ events per year serving the WPI campus and surrounding communities
           
-          Mentor, train and support crew members in event planning and execution
+          Mentor, train and support crew members in event planning and technical execution
 
       - layout: left
         title: Vice President
@@ -250,6 +281,8 @@ content:
           Febuary 2022 - Febuary 2023
         description: | # this will include new lines to allow paragraphs
           Collaborate and partner with clients, service providers, and university departments
+
+          Organize club activities, advance visits to local venues, and explore new opportunities for members
           
           Short- and long-term production planning, scheduling, logistics, and equipment allocation
           
@@ -264,36 +297,6 @@ content:
         caption: August 2021 - Present
         description: | # this will include new lines to allow paragraphs
           Lighting Designer, Head Electrician, or Rental Coordinator for 12+ musicals and plays
-
-  - title: Skills # Title for the section
-  # Programming Languages: Java, C++, Matlab, Python, JavaScript, and LaTeX
-  # Design Applications Adobe Suite, Affinity Designer, Solidworks, and Onshape
-  # Theatre & Event Production Tools: Vectorworks with BeamViz, ETC EOS, Qlab, and Lightwright
-  # Languages: English (native speaker), Spanish (intermediate)
-  # Networking for Live Events/Installation: Dante Level 3 Certified (2nd Edition), ArtNet/sACN/ETCNet
-
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Programming Languages
-        description: | # this will include new lines to allow paragraphs
-          Java, C++, Matlab, Python, JavaScript, and LaTeX
-      - layout: left
-        title: Design Applications
-        description: | # this will include new lines to allow paragraphs
-          Adobe Suite, Affinity Designer, Solidworks, and Onshape
-      - layout: left
-        title: Theatre & Event Production Tools
-        description: | # this will include new lines to allow paragraphs
-          Vectorworks with BeamViz, ETC EOS, Qlab, and Lightwright
-      - layout: left
-        title: Networking for Live Events/Installation
-        description: | # this will include new lines to allow paragraphs
-          Dante Level 3 Certified (2nd Edition), experience with ArtNet/sACN/ETCNet
-      - layout: left
-        title: Languages
-        description: | # this will include new lines to allow paragraphs
-          English (native speaker), Spanish (intermediate)
 
   - title: Awards & Honors # Title for the section
     layout: list # Type of content section (list/text)
