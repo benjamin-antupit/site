@@ -302,6 +302,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Class of 1879 Prize
+        sub_title: Outstanding Projects in the Humanities
+        caption: Febuary 2023
+        description: | # this will include new lines to allow paragraphs
+           The Class of 1879 Prize is awarded by the Humanities & Arts department yearly for excellent work in the culminating project for the Humanities & Arts Requirement. These projects must demonstrate exceptional creativity and skill in conceiving, developing, and expressing a theme within any discipline in the humanities and arts.  
+        link: https://benjamin.antupit.com/assets/Benjamin_Antupit-TH3910_HUA_Practicum.pdf
+        link_text: View Project Portfolio
+      - layout: left
         title: Social Innovation Challenge
         sub_title: 1st Place, Team Adaptly
         caption: Febuary 2022
