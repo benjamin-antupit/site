@@ -210,22 +210,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Teaching Assistant
-        link: users.wpi.edu/~theatre/
-        # link_text: boringcompany.com
-        sub_title: TH340X - Lighting Design at WPI
-        caption: January 2023 - Present
-        description: | # this will include new lines to allow paragraphs
-          Responsible for small-group activities in the Lighting Lab using an ETC ION and ETC LED fixtures
-          Collaborated with professor on course planning and prepared lab space for students 
-      - layout: left
-        title: Assistant Network Engineer
+        title: Network Assistant
         link: wpi.edu/offices/systems-operations
         # link_text: boringcompany.com
         sub_title: WPI Network Operations
         caption: January 2023 - Present
         description: | # this will include new lines to allow paragraphs
-          Maintain large-scale network infrastructure in collaboration with full-time network engineers
+          Maintain large-scale network infrastructure in collaboration with full-time network engineers adnd staff
+      - layout: left
+        title: Teaching Assistant
+        link: users.wpi.edu/~theatre/
+        # link_text: boringcompany.com
+        sub_title: TH340X - Lighting Design at WPI
+        caption: January 2023 - March 2023
+        description: | # this will include new lines to allow paragraphs
+          Responsible for small-group activities in the Lighting Lab using an ETC ION and ETC LED fixtures
+          Collaborated with professor on course planning and prepared lab space for students 
       - layout: left
         title: Collaborator & Camp Counselor
         link: ProjectEmber.org
