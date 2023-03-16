@@ -131,7 +131,7 @@ content:
         title: > 
           "Escape Room" Robots
         sub_title: > 
-          RBE3001: Unified Robotics II - Sensing and Communication
+          RBE2002: Unified Robotics II - Sensing and Communication
         caption: October 2022 - December 2022
         #link: github.com/sproogen
         # link_text: Project Website
@@ -170,7 +170,7 @@ content:
         title: > 
           "Solar Panel Installation" Robot
         sub_title: > 
-          RBE3001: Unified Robotics I - Mechanisms and Linkages
+          RBE2001: Unified Robotics I - Mechanisms and Linkages
         caption: August 2022 - October 2022
         #link: github.com/sproogen
         # link_text: Project Website
@@ -189,7 +189,7 @@ content:
         title: > 
           "Pizza Delivery" Robot
         sub_title: > 
-          RBE3001: Introduction to Unified Robotics
+          RBE1001: Introduction to Unified Robotics
         caption: January 2022 - March 2022
         #link: github.com/sproogen
         # link_text: Project Website
