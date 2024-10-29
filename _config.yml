@@ -88,7 +88,7 @@ content:
       - layout: left
         title: Live Entertainment Production Tools
         description: | # this will include new lines to allow paragraphs
-          TAIT Navigator, PRG Stage Command, Vectorworks, ETC EOS
+          TAIT Navigator, PRG Stage Command, Vectorworks/Braceworks, ETC EOS
       - layout: left
         title: Software Design & Implementation
         description: | # this will include new lines to allow paragraphs
@@ -96,7 +96,7 @@ content:
       - layout: left
         title: Design Applications
         description: | # this will include new lines to allow paragraphs
-          PTC Creo, Solidworks, Onshape, Adobe Suite, and Affinity Designer
+          Vectorworks, PTC Creo, Solidworks, Onshape, Adobe Suite, and Affinity Designer
       - layout: left
         title: Industry-specific Networking
         description: | # this will include new lines to allow paragraphs
@@ -381,7 +381,7 @@ content:
 
 # Footer
 footer_show_references: true # false
-references_title: References avaliable upon request (contact `benjamin` at `antupit` dot `com`)
+references_title: References avaliable upon request
 
 # Build settings
 remote_theme: sproogen/resume-theme
