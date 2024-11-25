@@ -88,7 +88,7 @@ content:
       - layout: left
         title: Live Entertainment Production Tools
         description: | # this will include new lines to allow paragraphs
-          TAIT Navigator, PRG Stage Command, Vectorworks/Braceworks, ETC EOS
+          TAIT Navigator, PRG Stage Command, Vectorworks/Braceworks, ETC EOS, QLab
       - layout: left
         title: Software Design & Implementation
         description: | # this will include new lines to allow paragraphs
@@ -104,7 +104,7 @@ content:
       - layout: left
         title: Production & Stage Automation Equipment
         description: | # this will include new lines to allow paragraphs
-          Chain Hoist (Operation & Repair), Stage Lifts, Revolves, Moving Lights, and Scissor/Boom Lifts
+          Variable & Fixed-speed Chain Hoists (Operation & Repair), Stage Lifts, Revolves, Moving Lights, and Scissor/Boom Lifts
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
