@@ -176,6 +176,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Recycling Robotics - Manipulation and Classification
+        sub_title: > 
+          Graduate Course within WPI's MERlab
+        caption: October 2023 - Present
+        link: https://wp.wpi.edu/merlab/
+        # link_text: Project Report & Poster
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          • Collaborated with interdicisplinary team to research manipulation grasp generation and waste classification.
+          
+          • Developed software documentation, presented on research, and worked closely with subteams on systems integration.
+      - layout: top-middle
         title: Disc Golf Inventory System
         sub_title: > 
           WPI + Maple Hill Disc Golf
@@ -190,9 +208,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          • Designed, developed, and integrated disc analysis machine with capacity for 300+ discs per hour
+          • Designed, developed, and integrated disc analysis machine with capacity for 300+ discs per hour.
           
-          • Wore many hats: managed team of 7, developed system integrations, and liaised with client
+          • Wore many hats: managed team of 7, developed system integrations, and liaised with client.
       - layout: top-middle
         title: 3-DoF Pick-and-place Robotic Manipulator
         sub_title: > 
@@ -200,76 +218,42 @@ content:
         caption: January 2023 - March 2023
         link: https://www.youtube.com/watch?v=wEN4000z8K4
         link_text: Project Summary Video
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          • Developed trajectory-following algorithm and model in Matlab using forward/inverse kinematics
+          • Developed trajectory-following algorithm and model in Matlab using forward/inverse kinematics.
           
-          • Collaborated with a team to design and implement a ball sorting routine using computer vision
+          • Collaborated with a team to design and implement a ball sorting routine using computer vision.
       - layout: top-middle
         title: > 
           "Escape Room" Robots
         sub_title: > 
           RBE2002: Unified Robotics II - Sensing and Communication
         caption: October 2022 - December 2022
-        #link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          • Implemented odometry, kinematics, and gyro/accelerometer fusion on a mobile robot platform 
+          • Implemented odometry, kinematics, and gyro/accelerometer fusion on a mobile robot platform.
 
-          • Worked with a team to integrate three robots using MQTT and complete a maze escape challenge
+          • Worked with a team to integrate three robots using MQTT and complete a maze escape challenge.
       - layout: top-middle
         title: > 
           Practicum in Theater Lighting Design
         sub_title: > 
           New Voices 39 - A Festival of New Plays
         caption: Febuary 2022 - May 2022
-        #link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          • Developed design ideas in collaboration with directors and co-lighting designer
+          • Developed design ideas in collaboration with directors and co-lighting designer.
 
-          • Created visually distinct worlds for each show to evoke emotions through light 
+          • Created visually distinct worlds for each show to evoke emotions through light.
 
-          • Communicated results in a report with lighting plots, fixture schedules, and narrative journal using Lightwright, Vectorworks and LaTeX
+          • Communicated results in a report with lighting plots, fixture schedules, and narrative journal using Lightwright, Vectorworks and LaTeX.
       - layout: top-middle
         title: > 
           "Solar Panel Installation" Robot
         sub_title: > 
           RBE2001: Unified Robotics I - Mechanisms and Linkages
         caption: August 2022 - October 2022
-        #link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          • Learned to synthesize, model, and iterate on linkage designs for manipulation of various objects
+          • Learned to synthesize, model, and iterate on linkage designs for manipulation of various objects.
           
-          • Collaborated with a team of peers to develop strategy, software, and manipulator to place solar panel models on small roofs using sensor-driven feedback loops 
+          • Collaborated with a team of peers to develop strategy, software, and manipulator to place solar panel models on small roofs using sensor-driven feedback loops.
 
   
   - title: Leadership & Activities # Title for the section
@@ -281,13 +265,13 @@ content:
         # link_text: boringcompany.com
         sub_title: WPI Lens and Lights
         caption: |
-          Febuary 2024 - Present
+          Febuary 2024 - Febuary 2025
         description: | # this will include new lines to allow paragraphs
-          • Maintained and coordinated repairs for lighting, audio, and rigging equipment
+          • Maintained and coordinated repairs for lighting, audio, and rigging equipment.
           
-          • Lead trainings and workshops for new and experienced members in rigging, lighting, audio, & more
+          • Lead trainings and workshops for new and experienced members in rigging, lighting, audio, & more.
           
-          • Coordinate sub-rentals of event production and rigging equipment from regional & national vendors
+          • Coordinate sub-rentals of event production and rigging equipment from regional & national vendors.
 
       - layout: left
         title: President
@@ -297,9 +281,9 @@ content:
         caption: |
           Febuary 2023 - Febuary 2024
         description: | # this will include new lines to allow paragraphs
-          • Plan and coordinate lighting and sound services, rental equipment, and student crew for 270+ events per year serving the WPI campus and surrounding communities
+          • Plan and coordinate lighting and sound services, rental equipment, and student crew for 270+ events per year serving the WPI campus and surrounding communities.
           
-          • Mentor, train and support 40+ crew members in event planning and technical execution
+          • Mentor, train and support 40+ crew members in event planning and technical execution.
 
       - layout: left
         title: Vice President
@@ -309,13 +293,13 @@ content:
         caption: |
           Febuary 2022 - Febuary 2023
         description: | # this will include new lines to allow paragraphs
-          • Collaborate and partner with clients, service providers, and university departments
+          • Collaborate and partner with clients, service providers, and university departments.
 
-          • Organize club activities, advance visits to local venues, and explore new opportunities for members
+          • Organize club activities, advance visits to local venues, and explore new opportunities for members.
           
-          • Short- and long-term production planning, scheduling, logistics, and equipment allocation
+          • Short- and long-term production planning, scheduling, logistics, and equipment allocation.
           
-          • Coordinate rentals of our equipment to local companies and sub-rentals from regional vendors
+          • Coordinate rentals of our equipment to local companies and sub-rentals from regional vendors.
 
 
       - layout: left
@@ -325,7 +309,7 @@ content:
         sub_title: VOX Musical Theatre and Masque Theatre
         caption: August 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          • Technical Director, Lighting Designer, Head Electrician, or Rental Coordinator for 16+ musicals and plays
+          • Technical Director, Lighting Designer, Head Electrician, and/or Rental Coordinator for 16+ musicals and plays.
 
       - layout: left
         title: Production Manager
@@ -334,13 +318,19 @@ content:
         sub_title: Various Events in Central Massachusetts
         caption: January 2023 - Febuary 2024
         description: | # this will include new lines to allow paragraphs
-          • Focused on events ranging from concerts to fashion shows to nonprofit benefits
+          • Focused on events ranging from concerts to fashion shows to nonprofit benefits.
           
-          • Collaborated with clients and crew to develop vision and budget for video, lighting and sound design
+          • Collaborated with clients and crew to develop vision and budget for video, lighting and sound design.
 
   - title: Awards & Honors # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Two Towers Award
+        sub_title: Honorable Mention
+        caption: April 2024
+        description: | # this will include new lines to allow paragraphs
+           Awarded to students to "...exemplifies a combined proficiency in the theoretical and practical union that is at the heart of the WPI educational tradition."
       - layout: left
         title: Class of 1879 Prize
         sub_title: Outstanding Projects in the Humanities
