@@ -5,11 +5,11 @@ Built using [James Grant's](https://github.com/sproogen) [Modern Resume Theme](h
 # Running locally
 Before you start make sure you have Ruby and the gems for Jekyll installed locally. You can find out how to do that here.
 
-#. Clone resume repository locally (if you haven't already)
-#. `cd [your-repository-name]`
-#. `bundle install`
-#. `bundle exec jekyll serve`
-#. Open your browser to `http://localhost:4000`
+# . Clone resume repository locally (if you haven't already)
+1. `cd [your-repository-name]`
+2. `bundle install`
+3. `bundle exec jekyll serve`
+4. Open your browser to `http://localhost:4000`
 
 Any changes you make will automatically build and you will be able to see these by refreshing your browser.
 
