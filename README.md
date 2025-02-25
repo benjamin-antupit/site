@@ -13,4 +13,4 @@ Before you start make sure you have Ruby and the gems for Jekyll installed local
 
 Any changes you make will automatically build and you will be able to see these by refreshing your browser.
 
-*Note: You will need to re-run bundle exec jekyll serve to see changes made in _config.yml.*
+*Note: You will need to re-run bundle exec jekyll serve to see changes made in `_config.yml.*`
