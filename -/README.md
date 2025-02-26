@@ -1,0 +1,1 @@
+# This folder exists to contain any static assets referenced externally (i.e. via QR codes or other hard-to-modify items)
