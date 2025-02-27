@@ -159,7 +159,7 @@ content:
           • Advised fellow staff on project planning, feasibility, and designing with safety
       - layout: left
         title: Software Specialist
-        link: LiminalET.com
+        link: https://LiminalET.com
         # link_text: boringcompany.com
         sub_title: AuroBor, LLC (Formerly Liminal Engineering Technologies)
         caption: April 2021 - November 2021
@@ -382,3 +382,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+markdown: GFM
