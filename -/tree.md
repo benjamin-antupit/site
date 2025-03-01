@@ -2,6 +2,11 @@
 layout: 'links' # layout: 'forward'
 # target: 'https://benjamin.antupit.com/-/resume.pdf'
 
+show_photo: true
+show_name: true
+show_title: true
+# title: "Links"
+
 buttons:
   - title: Resume
     url: /-/resume.pdf

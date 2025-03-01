@@ -7,21 +7,33 @@
 
 <body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
 
+  {% if page.show_name or page.show_title or page.show_photo %}
     <div class="container header-container">
+      {% if page.show_photo %}
         <div class="row clearfix">
             {%- if site.about_profile_image -%}
               <div class="col-12 no-print text-center">
                 <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})"></span>
               </div>
             {%- endif -%}
-            </div>
+          </div>
+      {% endif %}
+      {% if page.show_name or page.show_title %}
         <div class="row text-center">
+            {% if page.show_name %}
             <div class="col-12">
                 <h1>{{ site.name | escape }}</h1>
             </div>
+            {% endif %}
+            {% if page.show_title %}
             <div class="col-xs-11 col-sm-8 col-md-10 col-lg-10" style="float:none;display: block;margin-left: auto; margin-right: auto;">
                 <h2>{{ site.title | escape }}</h2>
             </div>
+            {% endif %}
+      {% endif %}
+      {% else %}
+      <h1 style="text-align: center;margin-top: 4rem;">{{page.title}}</h1>
+      {% endif %}
           <!-- <div class="col-12">
             <ul class="icons no-print" style="text-align: center;">
               {%- if site.dribbble_username -%}
