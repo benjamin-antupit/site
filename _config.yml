@@ -31,6 +31,9 @@ linkedin_username: benjamin-antupit
 
 # Additional icon links
 additional_links:
+- title: Resume
+  icon: fas fa-file-pdf
+  url: https://benjamin.antupit.com/-/resume.pdf
 #- title: itsgoingto.be
 #  icon: fas fa-globe
 #  url: https://www.itsgoingto.be
@@ -48,9 +51,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Benjamin and I'm studying <mark>Robotics Engineering</mark> and <mark>Technical Theatre</mark> at WPI. In my spare time, I am the Technical Director of [WPI Lens and Lights](https://lnl.wpi.edu), a student-run live event production group which produces over 200 events per year. 
+  Hello, I'm Benjamin and I'm studying <mark>Robotics Engineering</mark> and <mark>Technical Theatre</mark> at WPI. In my spare time, I am a crew chief and mentor for [WPI Lens and Lights](https://lnl.wpi.edu), a student-run live event production group which produces over 200 events per year. 
   
-  I really enjoy exploring the intersection between live entertainment, project management, and engineering which is what led me to Stage Automation and Robotics Engineering. I love exploring lighting design and technical direction in my spare time because I enjoy the creative outlet, collaboration, and bringing joy to audiences.
+  In my studies and projects, I enjoy exploring the intersection between live entertainment, project management, and engineering. This curiosity led me to Stage Automation and Robotics Engineering. I also love exploring lighting design and technical direction, and I find performing arts to be a fufilling creative outlet and opportunity for collaboration.
+
+  I'm always happy to chat and connect; please reach out to me on [LinkedIn](https://www.linkedin.com/in/benjamin-antupit) or [email: benjamin@antupit.com](mailto:benjamin@antupit.com).
 
 ### Content options: https://github.com/sproogen/modern-resume-theme#content
 content:
@@ -58,30 +63,34 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Worcester Polytechnic Institute (WPI)
-        sub_title: Combined Bachelor & Master of Science in Robotics Engineering with a Minor in Technical Theatre
+        title: Bachelor of Science
+        sub_title: Robotics Engineering Major with Technical Theatre Minor (August 2021 - May 2025)
         link: www.wpi.edu
-        caption: 2021-2025
+        caption: Worcester Polytechnic Institute (WPI)
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at WPI, I ...
+#
+        #  I spent a lot of my free time ...
+      - layout: top-middle
+        title: Masters of Science
+        sub_title: Robotics Engineering (April 2024 - May 2025)
+        link: www.wpi.edu
+        caption: Worcester Polytechnic Institute (WPI)
         #description: | # this will include new lines to allow paragraphs
         #  During my time at WPI, I ...
 #
         #  I spent a lot of my free time ...
 
-      - layout: top-middle
-        title: Crystal Springs Uplands School
-        sub_title: Middle and High School
-        link: www.csus.org
-        caption: 2014-2021
+      # - layout: top-middle
+      #   title: Crystal Springs Uplands School
+      #   sub_title: Middle and High School
+      #   link: www.csus.org
+      #   caption: 2014-2021
         #description: | # this will include new lines to allow paragraphs
          # During my time at Crystal, I ...
 #
  #         I spent a lot of my free time ...
   - title: Skills # Title for the section
-# Live Entertainment Production Tools: TAIT Navigator, PRG Stage Command, Vectorworks, ETC EOS
-# Programming Languages: Python (specialized in ROS), MATLAB, Java, C++, TypeScript, and LaTeX
-# Design Applications: PTC Creo, Solidworks, Onshape, Adobe Suite, and Affinity Designer
-# Industry-specific Networking: Dante Level 3 Certified (2nd Edition), EtherCAT, ArtNet/sACN/ETCNet
-# Production Equipment: Chain Hoist Repair, Stage Lifts, Revolves, Moving Lights, Scissor/Boom Lifts
 
     layout: list # Type of content section (list/text)
     content:
@@ -89,18 +98,22 @@ content:
         title: Live Entertainment Production Tools
         description: | # this will include new lines to allow paragraphs
           TAIT Navigator, PRG Stage Command, Vectorworks/Braceworks, ETC EOS, QLab
+
       - layout: left
         title: Software Design & Implementation
         description: | # this will include new lines to allow paragraphs
-          Python (specialized in ROS), MATLAB, Java, C++, TypeScript, and LaTeX
+          Python (specialized in ROS), MATLAB, TypeScript, Java, C++, and VS Code
+
+      - layout: left
+        title: AV/Entertainment Networking
+        description: | # this will include new lines to allow paragraphs
+          Dante Level 3 Certified (2nd Edition), EtherCAT, ArtNet/sACN/ETCNet
+
       - layout: left
         title: Design Applications
         description: | # this will include new lines to allow paragraphs
           Vectorworks, PTC Creo, Solidworks, Onshape, Adobe Suite, and Affinity Designer
-      - layout: left
-        title: Industry-specific Networking
-        description: | # this will include new lines to allow paragraphs
-          Dante Level 3 Certified (2nd Edition), EtherCAT, Ethernet/IP, and ArtNet/sACN/ETCNet
+      
       - layout: left
         title: Production & Stage Automation Equipment
         description: | # this will include new lines to allow paragraphs
@@ -114,25 +127,36 @@ content:
         link: https://www.prg.com/en/services/scenic-and-automation
         # link_text: boringcompany.com
         sub_title: PRG Scenic Technologies (New Windsor, NY)
-        caption: Summer 2024
+        caption: May 2024 - August 2024
         description: | # this will include new lines to allow paragraphs
-          • Commissioned new scenic automation systems for NYC & touring Broadway productions
+          •	Commissioned new scenic automation systems for touring & NYC Broadway productions
 
-          • Learned to operate and provide field support for scenic automation and performer flying systems
+          •	Operated and provided field support for scenic automation and performer flying systems
 
-          • Collaboratively designed, specified, fabricated, and supported electronic & mechanical elements
+          •	Collaboratively designed and implemented control and safety systems using Rockwell PLCs
+
       - layout: left
         title: Control Integration and Field Engineering Intern
         link: https://www.taittowers.com/
         # link_text: boringcompany.com
         sub_title: TAIT Towers (Lititz, PA)
-        caption: Summer 2023
+        caption: June 2023 - August 2023
         description: | # this will include new lines to allow paragraphs
-          • Completed commissioning for stage automation systems used in international concert touring, theater, opera, theme parks, cruise ships, and unique live entertainment applications
+          •	Completed commissioning for stage automation and show control systems used in international concert touring, theater, opera, theme parks, cruise ships, and unique entertainment applications
 
-          • Worked on 10+ projects in 10 weeks using Beckoff/Siemens PLCs and QNX Linux
-          
-          • Learned to program automation show control systems with TAIT Navigator 102 certification
+          •	Implemented and/or tested 10+ projects in 10 weeks using Beckhoff/Siemens PLCs and QNX Linux
+
+          •	Trained to program automation show control systems with TAIT Navigator 102 certification
+
+      - layout: left
+        title: Robotics Engineering Intern
+        link: https://www.bvengineering.net/
+        # link_text: boringcompany.com
+        sub_title: Blackstone Valley Engineering (Shrewsbury, MA)
+        caption: Spring 2024
+        description: | # this will include new lines to allow paragraphs
+          • Researched, presented, and assisted in developing a microfluidics process with a SCARA robot
+
       - layout: left
         title: Teaching Assistant
         link: https://www.wpi.edu/academics/study/drama/theatre-minor
@@ -142,7 +166,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           • Responsible for small-group activities in the Lighting Lab using an ETC ION and ETC LED fixtures
 
-          • Collaborated with professor on course planning and prepared lab space for students 
+          • Collaborated with professor on course planning, lessons on design theory and training for ETC EOS
+
       - layout: left
         title: Collaborator & Camp Counselor
         link: ProjectEmber.org
@@ -157,6 +182,7 @@ content:
           • Facilitated imaginative design sessions, interactive tool trainings, large-group brainstorms, and team-building games to create a welcoming learning community
           
           • Advised fellow staff on project planning, feasibility, and designing with safety
+
       - layout: left
         title: Software Specialist
         link: https://LiminalET.com
@@ -176,11 +202,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Recycling Robotics - Manipulation and Classification
+        title: Recycling Robotics - Control Systems for Waste Sorting
         sub_title: > 
           Graduate Course within WPI's MERlab
-        caption: October 2023 - Present
-        link: https://wp.wpi.edu/merlab/
+        caption: October 2024 - Present
+        link: https://wp.wpi.edu/merlab/robotic-waste-sorting/
         # link_text: Project Report & Poster
         #additional_links:
         #  - title:  sproogen/modern-resume-theme
@@ -190,9 +216,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          • Collaborated with interdicisplinary team to research manipulation grasp generation and waste classification.
-          
-          • Developed software documentation, presented on research, and worked closely with subteams on systems integration.
+          •	Collaborated with interdisciplinary team to research grasp generation and waste classification
+
+          •	Developed software, presented research, and worked closely with sub-teams on systems integration
+
       - layout: top-middle
         title: Disc Golf Inventory System
         sub_title: > 
@@ -208,9 +235,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          • Designed, developed, and integrated disc analysis machine with capacity for 300+ discs per hour.
-          
-          • Wore many hats: managed team of 7, developed system integrations, and liaised with client.
+          •	Designed, developed, and integrated disc analysis machine with capacity for 300+ discs per hour
+
+          •	Handled many roles including system integration, client liaising, and project management
+
       - layout: top-middle
         title: 3-DoF Pick-and-place Robotic Manipulator
         sub_title: > 
@@ -222,6 +250,7 @@ content:
           • Developed trajectory-following algorithm and model in Matlab using forward/inverse kinematics.
           
           • Collaborated with a team to design and implement a ball sorting routine using computer vision.
+
       - layout: top-middle
         title: > 
           "Escape Room" Robots
@@ -232,6 +261,7 @@ content:
           • Implemented odometry, kinematics, and gyro/accelerometer fusion on a mobile robot platform.
 
           • Worked with a team to integrate three robots using MQTT and complete a maze escape challenge.
+
       - layout: top-middle
         title: > 
           Practicum in Theater Lighting Design
@@ -244,6 +274,7 @@ content:
           • Created visually distinct worlds for each show to evoke emotions through light.
 
           • Communicated results in a report with lighting plots, fixture schedules, and narrative journal using Lightwright, Vectorworks and LaTeX.
+
       - layout: top-middle
         title: > 
           "Solar Panel Installation" Robot
@@ -261,7 +292,7 @@ content:
     content:
       - layout: left
         title: Technical Director
-        link: lnl.wpi.edu
+        link: https://lnl.wpi.edu
         # link_text: boringcompany.com
         sub_title: WPI Lens and Lights
         caption: |
