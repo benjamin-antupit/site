@@ -64,7 +64,7 @@ content:
     content:
       - layout: top-middle
         title: Bachelor of Science
-        sub_title: Robotics Engineering Major with Technical Theatre Minor (August 2021 - May 2025)
+        sub_title: Robotics Engineering Major with Theatre Minor (August 2021 - May 2025)
         link: www.wpi.edu
         caption: Worcester Polytechnic Institute (WPI)
         #description: | # this will include new lines to allow paragraphs
@@ -102,7 +102,7 @@ content:
       - layout: left
         title: Software Design & Implementation
         description: | # this will include new lines to allow paragraphs
-          Python (specialized in ROS), MATLAB, TypeScript, Java, C++, and VS Code
+          Python (specialized in ROS 1 & 2), MATLAB, TypeScript, Java, C++, and VS Code
 
       - layout: left
         title: AV/Entertainment Networking
@@ -115,9 +115,9 @@ content:
           Vectorworks, PTC Creo, Solidworks, Onshape, Adobe Suite, and Affinity Designer
       
       - layout: left
-        title: Production & Stage Automation Equipment
+        title: Entertainment Production & Automation Equipment
         description: | # this will include new lines to allow paragraphs
-          Variable & Fixed-speed Chain Hoists (Operation & Repair), Stage Lifts, Revolves, Moving Lights, and Scissor/Boom Lifts
+          Variable & fixed-speed chain hoists (operation & repair), stage lifts, revolves, moving lights, forklifts, and MEWPs (scissor/boom lifts)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -218,7 +218,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           •	Collaborated with interdisciplinary team to research grasp generation and waste classification
 
-          •	Developed software, presented research, and worked closely with sub-teams on systems integration
+          • Developed control system, presented research, and worked with sub-teams on systems integration
 
       - layout: top-middle
         title: Disc Golf Inventory System
@@ -269,7 +269,9 @@ content:
           New Voices 39 - A Festival of New Plays
         caption: Febuary 2022 - May 2022
         description: | # this will include new lines to allow paragraphs
-          • Developed design ideas in collaboration with directors and co-lighting designer.
+          • Awarded university “Class of 1879 Prize” for Outstanding Project in the Humanities
+          
+          •	Developed design ideas in collaboration with directors and co-lighting designer.
 
           • Created visually distinct worlds for each show to evoke emotions through light.
 
