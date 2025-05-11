@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Benjamin Antupit
-title: Stage Automation Technician & Robotics Engineer
+title: Entertainment Automation Technician & Robotics Engineer
 email: benjamin@antupit.com
 website: benjamin.antupit.com
 
@@ -122,6 +122,15 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Show Control Design Intern
+        link: https://sites.disney.com/waltdisneyimagineering/live-entertainment/
+        # link_text: boringcompany.com
+        sub_title: Disney Live Entertainment (Central Florida)
+        caption: June 2025 - Present
+        description: | # this will include new lines to allow paragraphs
+          •	TBD
+      
       - layout: left
         title: Scenic Control Systems Intern
         link: https://www.prg.com/en/services/scenic-and-automation
