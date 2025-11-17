@@ -51,11 +51,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Benjamin and I'm studying <mark>Robotics Engineering</mark> and <mark>Technical Theatre</mark> at WPI. In my spare time, I am a crew chief and mentor for [WPI Lens and Lights](https://lnl.wpi.edu), a student-run live event production group which produces over 200 events per year. 
+  Hello, I'm Benjamin and I'm a show control designer, robotics engineer, and generally curious person. I've worked in live entertainment production, show control, AVL design, and stage automation for theme parks, broadway theaters, concerts, cruise ships, and these days, museums. 
   
-  In my studies and projects, I enjoy exploring the intersection between live entertainment, project management, and engineering. This curiosity led me to Stage Automation and Robotics Engineering. I also love exploring lighting design and technical direction, and I find performing arts to be a fufilling creative outlet and opportunity for collaboration.
+  When I was studying at WPI, I focused on <mark>Robotics Engineering</mark> and <mark>Technical Theatre</mark>. In my spare time, I was a crew chief and mentor for [WPI Lens and Lights](https://lnl.wpi.edu), a student-run live event production group which produces 150-200+ events per year. 
+  
+  I enjoy exploring the intersection between live entertainment, project management, and engineering. This curiosity led me to Stage Automation and Robotics Engineering. I also love exploring lighting design and technical direction, and I find performing arts to be a fufilling creative outlet and opportunity for collaboration.
 
-  I'm always happy to chat and connect; please reach out to me on [LinkedIn](https://www.linkedin.com/in/benjamin-antupit) or [email: benjamin@antupit.com](mailto:benjamin@antupit.com).
+  I'm always happy to chat and connect; please reach out to me on [LinkedIn](https://www.linkedin.com/in/benjamin-antupit) or [email: benjamin@antupit.com](mailto:benjamin@antupit.com). I'm available for freelance work in show control, stage automation, and live event production.
 
 ### Content options: https://github.com/sproogen/modern-resume-theme#content
 content:
@@ -107,7 +109,7 @@ content:
       - layout: left
         title: AV/Entertainment Networking
         description: | # this will include new lines to allow paragraphs
-          Dante Level 3 Certified (2nd Edition), EtherCAT, ArtNet/sACN/ETCNet
+          Dante Level 3 Certified (2nd Edition), Cisco IOS, EtherCAT, ArtNet/sACN/ETCNet
 
       - layout: left
         title: Design Applications
@@ -129,7 +131,7 @@ content:
         sub_title: Disney Live Entertainment (Central Florida)
         caption: June 2025 - Present
         description: | # this will include new lines to allow paragraphs
-          •	Designed Navigator rules/panels/etc and supported electrical integration for a new parade
+          •	Designed rules/panels/etc and supported electrical integration for various projects, including a new parade
 
           •	Supported shows and venues with electrical, network, and show control design and implementation
           
