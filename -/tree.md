@@ -19,6 +19,12 @@ buttons:
     icon: fab fa-linkedin-in
     color: "#e0f2fe, #7dd3fc, #0ea5e9"
     type: 'pixel-canvas'
+  
+  - title: Add to Contacts
+    url: /-/Benjamin_Antupit.vcard
+    icon: fas fa-envelope
+    color: "#e0f2fe, #7dd3fc, #0ea5e9"
+    type: 'pixel-canvas'
 
   - title: Email
     url: mailto:benjamin@antupit.com

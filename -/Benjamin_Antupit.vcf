@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Antupit;Benjamin;;;
+FN: Benjamin Antupit
+URL:https://benjamin.antupit.com/-/from-vcard
+TEL;TYPE=HOME,CELL:650-207-3694
+EMAIL;TYPE=HOME:benjamin@antupit.com
+TITLE:Entertainment Automation Engineer
+PHOTO;TYPE=JPG;VALUE=URI:https://benjamin.antupit.com/assets/images/profile.jpg
+END:VCARD
