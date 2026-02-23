@@ -65,15 +65,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Bachelor of Science
-        sub_title: Robotics Engineering Major with Theatre Minor (August 2021 - May 2025)
-        link: www.wpi.edu
-        caption: Worcester Polytechnic Institute (WPI)
-        #description: | # this will include new lines to allow paragraphs
-        #  During my time at WPI, I ...
-#
-        #  I spent a lot of my free time ...
-      - layout: top-middle
         title: Masters of Science
         sub_title: Robotics Engineering (April 2024 - May 2025)
         link: www.wpi.edu
@@ -83,6 +74,15 @@ content:
 #
         #  I spent a lot of my free time ...
 
+      - layout: top-middle
+        title: Bachelor of Science
+        sub_title: Robotics Engineering Major with Theatre Minor (August 2021 - May 2025)
+        link: www.wpi.edu
+        caption: Worcester Polytechnic Institute (WPI)
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at WPI, I ...
+#
+        #  I spent a lot of my free time ...
       # - layout: top-middle
       #   title: Crystal Springs Uplands School
       #   sub_title: Middle and High School
@@ -125,11 +125,31 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Rack Engineer
+        link: https://eoslightmedia.com
+        # link_text: boringcompany.com
+        sub_title: Eos Lightmedia (Remote and On-site in Washington, DC)
+        caption: October 2025 - Present
+        description: | # this will include new lines to allow paragraphs
+          •	Developed and collaboratively revised construction plans for museum AV and Show Control systems
+          •	Relentlessly focused on critical path to completion by supporting all project team members
+          •	Designed and implemented new workflows, metrics, and reports in Vectorworks and Google Sheets
+
+      - layout: left
+        title: Associate Show Control Designer
+        link: https://sites.disney.com/waltdisneyimagineering/live-entertainment/
+        # link_text: boringcompany.com
+        sub_title: Disney Live Entertainment (Central Florida)
+        caption: December 2025 - Present
+        description: | # this will include new lines to allow paragraphs
+          •	Supporting new and sustaining entertainment offerings throughout Walt Disney World, part-time
+          
+      - layout: left
         title: Show Control Design Intern
         link: https://sites.disney.com/waltdisneyimagineering/live-entertainment/
         # link_text: boringcompany.com
         sub_title: Disney Live Entertainment (Central Florida)
-        caption: June 2025 - Present
+        caption: June 2025 - December 2025
         description: | # this will include new lines to allow paragraphs
           •	Designed rules/panels/etc and supported electrical integration for various projects, including a new parade
 
