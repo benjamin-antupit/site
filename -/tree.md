@@ -21,7 +21,7 @@ buttons:
     type: 'pixel-canvas'
   
   - title: Add to Contacts
-    url: /-/Benjamin_Antupit.vcard
+    url: /-/Benjamin_Antupit.vcf
     icon: fas fa-envelope
     color: "#e0f2fe, #7dd3fc, #0ea5e9"
     type: 'pixel-canvas'
