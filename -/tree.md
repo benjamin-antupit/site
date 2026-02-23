@@ -20,7 +20,7 @@ buttons:
     color: "#e0f2fe, #7dd3fc, #0ea5e9"
     type: 'pixel-canvas'
   
-  - title: Add to Contacts
+  - title: Add Contact
     url: /-/Benjamin_Antupit.vcf
     icon: fas fa-address-book
     color: "#e0f2fe, #7dd3fc, #0ea5e9"
