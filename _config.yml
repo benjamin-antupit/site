@@ -125,14 +125,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Show Systems Architect
+        link: https://eoslightmedia.com
+        # link_text: boringcompany.com
+        sub_title: Eos Lightmedia (On-site in Washington, DC)
+        caption: May 2026 - Present
+        description: | # this will include new lines to allow paragraphs
+          •	Managed a team of technicians and AV programmers to implement immersive AV and show control systems for immersive experiences
+
+          •	Advise and support onsite teams with technical direction during programming, integration and testing phases
+
+          •	Act as a subject-matter expert on show system design and advise on complex show programming and system design
+
+      - layout: left
         title: Rack Engineer
         link: https://eoslightmedia.com
         # link_text: boringcompany.com
         sub_title: Eos Lightmedia (Remote and On-site in Washington, DC)
-        caption: October 2025 - Present
+        caption: October 2025 - May 2026
         description: | # this will include new lines to allow paragraphs
           •	Developed and collaboratively revised construction plans for museum AV and Show Control systems
+
           •	Relentlessly focused on critical path to completion by supporting all project team members
+
           •	Designed and implemented new workflows, metrics, and reports in Vectorworks and Google Sheets
 
       - layout: left
